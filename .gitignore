@@ -24,4 +24,5 @@ Documentation/
 celery/tests/cover/
 .ve*
 cover/
+*.rdb
 
